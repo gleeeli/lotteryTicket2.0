@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F5AA4BA027B15188C9CBC54E54657B15B4FB3067",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "ADB88BACF8B244FF66E84B48603AABABB5133639" : 9223372036854775807,
+    "F5AA4BA027B15188C9CBC54E54657B15B4FB3067" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "28312020-08D8-4463-B784-CDFB2D6DC2F3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "ADB88BACF8B244FF66E84B48603AABABB5133639" : "..",
+    "F5AA4BA027B15188C9CBC54E54657B15B4FB3067" : "loterryTicket\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "loterryTicket",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "loterryTicket.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/l19918762\/MyLifeWork.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "ADB88BACF8B244FF66E84B48603AABABB5133639"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/l19918762\/loterryTicket.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F5AA4BA027B15188C9CBC54E54657B15B4FB3067"
+    }
+  ]
+}
